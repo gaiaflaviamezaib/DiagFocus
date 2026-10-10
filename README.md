@@ -1,10 +1,10 @@
 # DiagFocus
 
-**Avec DiagFocus, retrouver le chemin vers un diagnostic éclairé du TDAH.**
+*Avec DiagFocus, retrouver le chemin vers un diagnostic éclairé du TDAH.*
 
 DiagFocus turns five neuropsychology tests into short mobile mini-games, to help spot attention difficulties in children earlier, at school or at the family doctor, and give clinicians objective data to work with.
 
-Created by the DiagFocus team at the **Hack'In Pharma 2026** hackathon.
+Created by the DiagFocus team at the Hack'In Pharma 2026 hackathon.
 
 ![The five DiagFocus mini-games](docs/screenshots/games-banner.png)
 
@@ -16,9 +16,9 @@ Objective attention tests such as TOVA show that attention can be measured. But 
 
 ## The idea
 
-Bring that kind of objective measurement **upstream** in the care pathway, directly into schools and primary care: a playful test battery a child takes on a phone or tablet, where each game is a child-friendly version of a test used in clinical neuropsychology.
+Bring that kind of objective measurement upstream in the care pathway, directly into schools and primary care: a playful test battery a child takes on a phone or tablet, where each game is a child-friendly version of a test used in clinical neuropsychology.
 
-DiagFocus is a **screening and orientation aid, not a diagnostic tool**. Computerised attention tests can inform a clinical assessment, but they can neither confirm nor rule out ADHD on their own. The diagnosis stays with the clinician.
+DiagFocus is a screening and orientation aid, not a diagnostic tool. Computerised attention tests can inform a clinical assessment, but they can neither confirm nor rule out ADHD on their own. The diagnosis stays with the clinician.
 
 ## The test battery
 
@@ -49,7 +49,7 @@ See [docs/science.md](docs/science.md) for the scientific background and referen
 
 ## Field research
 
-The concept was shaped by **30+ meetings** with professionals and volunteers, including child psychiatrists, pharmacists, pharmaceutical market-access professionals, a school principal and a school nurse, web developers, AI and computer science students, and a strategy student, as well as **35+ patients**.
+The concept was shaped by more than 30 meetings with professionals and volunteers, including child psychiatrists, pharmacists, pharmaceutical market-access professionals, a school principal and a school nurse, web developers, AI and computer science students, and a strategy student, as well as more than 35 patients.
 
 ## Roadmap
 
